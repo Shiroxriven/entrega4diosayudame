@@ -1,0 +1,33 @@
+.tituloizq {
+  color: brown; }
+
+.titulo__miembros {
+  color: blueviolet; }
+
+.titulo-navbar {
+  color: red; 
+  font-family:  'Amatic SC', cursive;
+}
+
+.backgroundpag {
+  color: black; }
+
+.redes {
+  background-color: black;
+  text-align: center;
+  padding: 1rem;
+  color: white; }
+
+.titulo-navbar {
+  font-size: 50px; }
+
+.titulo__miembros {
+  font-size: 50px;
+  text-align: center;
+}
+
+.tituloizq {
+  font-size: 30px; }
+
+.redes {
+  font-size: 25px; }

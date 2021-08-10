@@ -1,0 +1,25 @@
+$azul:blue;
+$amarillo:yellow;
+$negro:black;
+$blanco:white;
+$bluviolet:blueviolet;
+$marron:brown;
+$rojo:red;
+
+.tituloizq {color:$marron;}
+.titulo__miembros {color:$bluviolet;}
+.titulo-navbar {color:$rojo;}
+.backgroundpag {color: $negro;}
+
+
+$redes:(
+    color:black,
+    centro:center,
+);
+
+.redes{
+    background-color: map-get($redes, color);
+    text-align: map-get($redes, centro);
+    padding: 1rem;
+    color: white;
+}
